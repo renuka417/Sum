@@ -1,4 +1,4 @@
-public class SumNatural {
+public class Sum {
 
     public static void main(String[] args) {
 
